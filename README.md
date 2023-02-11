@@ -2,7 +2,20 @@
 
 A new Flutter project.
 
-## Getting Started
+<table>
+  <tr>
+  </tr>
+  <tr>
+    <td><img src="images/IMG_20230211_084937.png" </td>
+    <td><img src="images/IMG_20230211_085006.png" </td>
+    <td><img src="images/IMG_20230211_085024.png" </td>
+  </tr>
+  <tr>
+    <td><img src="images/IMG_20230211_085052.png" </td>
+    <td><img src="images/IMG_20230211_085113.png" </td>
+    <td><img src="images/IMG_20230211_085137.png" </td>
+  </tr>
+ </table>
 
 This project is a starting point for a Flutter application.
 
